@@ -1,0 +1,2 @@
+# intermediate_control_work_on_the_block_of_specialization
+Промежуточная контрольная работа по блоку специализация
